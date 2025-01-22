@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khabibullayev007
-- 👀 I’m interested in learning new languages and framework🙂‍↔️
+- 👀 I’m interested in learning new programming languages and framework🙂‍↔️
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me on Telegram @khabibullayev007 📩
